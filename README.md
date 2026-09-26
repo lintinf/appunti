@@ -1,2 +1,3 @@
 # appunti
-Contenitore Appunti del Corso LINTINF - Laurea in Ingegneria delle Tecnologie Informatiche
+
+Contenitore Appunti del Corso LINTINF - *Laurea in Ingegneria delle Tecnologie Informatiche*
